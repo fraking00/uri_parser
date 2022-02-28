@@ -1,4 +1,4 @@
-
+;;; done by https://github.com/fraking00 , https://github.com/AndreaD148
 ;;; URI CLASS
 (defclass uri ()
   ((u-scheme :initarg :scheme
